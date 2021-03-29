@@ -1,2 +1,4 @@
-# 201410004_ano_tarsono
+# NAMA : ANO TARSONO
+# NPM  : 20.14.1.0004
+# PRAKTIKUM ALPRO 2021
 Data Tugas Praktikum Alpro 2021
